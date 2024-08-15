@@ -1,6 +1,13 @@
 # Analyzing CIA Factbook Data Using SQL
 
-In this project, we'll work with data from the [CIA World Factbook](https://www.cia.gov/the-world-factbook/), a compendium of statistics about all of the countries on Earth. The Factbook contains demographic information.
+## Introduction
+
+This project uses SQL, through an iteration of SQL with Jupyter Notebook, to explore 
+and analyze data from the CIA World Factbook, a comprehensive resource that provides 
+demographic and statistical information about every country on Earth.
+
+Insights were gained into global population trends, land and water distribution, and 
+various demographic rates. Essentially, this project aims to answer the following questions.
 
 Here we will deal with the following questions: 
 
@@ -8,11 +15,16 @@ Q1. Which country has the largest and smallest population? How is population gro
 Q2. Which country has more waters than land?  
 Q3. Which are the top 3 contries that have a higher death rate than birth rate?
 
+The data can be obtained [here](https://www.cia.gov/the-world-factbook/).
+---
+## Technical Details
+
+- SQL environment iteration in Jupyter Notebook using the ipython-sql package.
+- Query performance with SQL using functions such as SELECT, WHERE, JOIN, and ORDER BY.
+- Aggregation functions like SUM, AVG, MAX, and MIN.
+
 ---
 ## Dependency Versions
 
-Python version 3.11.9 | packaged by Anaconda, Inc.  
-pandas version: 2.2.1  
-numpy version: 1.26.4  
-matplotlib version: 3.8.4  
-seaborn version: 0.12.2  
+You can import the Python environment in Anaconda using the python_env.yaml file.
+
