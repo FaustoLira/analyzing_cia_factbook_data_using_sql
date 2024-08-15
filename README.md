@@ -15,8 +15,8 @@ Q1. Which country has the largest and smallest population? How is population gro
 Q2. Which country has more waters than land?  
 Q3. Which are the top 3 contries that have a higher death rate than birth rate?
 
-The data was downloaded from Dataquest.io and can be found [here]
-(https://app.dataquest.io/m/257/guided-project%3A-analyzing-cia-factbook-data-using-sql/2/introduction)
+The data was downloaded from Dataquest.io and can be found 
+[here](https://app.dataquest.io/m/257/guided-project%3A-analyzing-cia-factbook-data-using-sql/2/introduction)
  (accessed on August 14, 2024).
 
 ---
