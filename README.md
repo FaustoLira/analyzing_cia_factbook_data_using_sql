@@ -29,5 +29,5 @@ The data was downloaded from Dataquest.io and can be found
 ---
 ## Dependency Versions
 
-You can import the Python environment in Anaconda using the python_env.yaml file.
+The Python environment used in this project can be set up in Anaconda using the python_env.yaml file.
 
