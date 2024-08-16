@@ -19,14 +19,12 @@ The data was downloaded from Dataquest.io and can be found
 [here](https://app.dataquest.io/m/257/guided-project%3A-analyzing-cia-factbook-data-using-sql/2/introduction)
  (accessed on August 14, 2024).
 
----
 ## Technical Details
 
 - SQL environment iteration in Jupyter Notebook using the ipython-sql package.
 - Query performance with SQL using functions such as SELECT, WHERE, JOIN, and ORDER BY.
 - Aggregation functions like SUM, AVG, MAX, and MIN.
 
----
 ## Dependency Versions
 
 The Python environment used in this project can be set up in Anaconda using the python_env.yaml file.
