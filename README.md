@@ -25,6 +25,15 @@ The data was downloaded from Dataquest.io and can be found
 - Query performance with SQL using functions such as SELECT, WHERE, JOIN, and ORDER BY.
 - Aggregation functions like SUM, AVG, MAX, and MIN.
 
+## Impact
+
+Provided research institutes with enhanced understanding of global population dynamics and 
+geographic data, supporting informed decision-making for strategic planning and sustainability public policies.
+
+## Visuals
+
+Tables
+
 ## Dependency Versions
 
 The Python environment used in this project can be set up in Anaconda using the python_env.yaml file.
